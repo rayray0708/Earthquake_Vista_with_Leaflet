@@ -8,3 +8,15 @@ body,
 html {
   height: 100%;
 }
+/* Background colour of the legend is white*/
+.legend {
+  background-color: #fff;
+}
+/* Size of the squares on the legend, 
+margin-right: 8px - add a space between the square and string  */
+.legend i {
+  float: left;
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+}
