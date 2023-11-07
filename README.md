@@ -1,4 +1,4 @@
-![Illustration of worldwide earthquakes]("https://caltechsites-prod.s3.amazonaws.com/scienceexchange/images/what-happens-earthquake-diagram_.max-1000x1000.png")
+![Illustration of worldwide earthquakes](https://www.ready.gov/sites/default/files/2022-04/kids_earthquakes.jpg)
 # leaflet_challenge
 ## Description
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
