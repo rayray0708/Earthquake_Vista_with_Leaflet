@@ -12,12 +12,11 @@ The following dependencies were used to generate the interactive map:
 2. D3.js
 3. CSS
 4. HTML
-![Alt text](<Screenshot 2023-12-18 at 3.31.06 pm.png>)
 
 ## Earthquakes analysis 
 The following image is a sampling of earthquake data in JSON format:
 
-![Alt text](<Screenshot 2023-12-18 at 3.43.02 pm.png>)
+![JSON](<Screenshot 2023-12-18 at 3.50.18 pm.png>)
 
 Our interactive map plots all the earthquakes from the current dataset based on their longitude and latitude. The map contains the following features:
 
@@ -28,6 +27,8 @@ Our interactive map plots all the earthquakes from the current dataset based on 
 * popups that provide additional information about the earthquake when its associated marker is clicked.
 
 * a legend that provides context for our map data.
+
+![Map](<Screenshot 2023-12-18 at 3.31.06 pm.png>)
 
 ## Contribution
 Special thanks to the following individuals for their contribution:
